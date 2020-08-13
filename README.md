@@ -41,5 +41,8 @@ A partir daí executar os notebooks na seguinte ordem:
 
    (esses foram os valores usados para o artigo, pode mudar conforme desejar) 
 
+# Resultados
+
+![Notas Clusterização](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/Notas_perCLuster.png)
 
 
