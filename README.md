@@ -41,8 +41,24 @@ A partir daí executar os notebooks na seguinte ordem:
 
    (esses foram os valores usados para o artigo, pode mudar conforme desejar) 
 
-# Resultados
+# Análise da Clusterização
+![Valor de Silhueta](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/CurvaSilhueta.png)
+![Clusterização 3D](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/Clusterizacao3D.png)
+![Silhueta](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/Silhueta.png)
 
-![Notas Clusterização](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/Notas_perCLuster.png)
+
+# Análise da distribuição das Notas pelos Clustes
+![Notas_perCLuster](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/Notas_perCLuster.png)
+![NotaMedia_perCluster](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/NotaMedia_perCluster.png)
+![CoordernadasParalelas](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/CoordernadasParalelas.png)
+
+# Análise Descritiva das Variáveis para cada Cluster
+
+![Notas Clusterização](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/TP_DEPENDENCIA_ADM_ESC_perCluster.png)
+![Notas Clusterização](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/Raca_perNota.png)
+![Notas Clusterização](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/PessoasPorQuarto_perCluster.png)
+![Notas Clusterização](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/EstudoM%C3%A3e_perCluster.png)
+![Notas Clusterização](https://github.com/vinnyalvs/MineracaoDadosEnemTeresina/blob/master/Gr%C3%A1ficos/DistribuicaoPopCluster_perRenda.png)
+
 
 
